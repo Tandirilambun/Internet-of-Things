@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669693349891",
+    "firebase_url": "https://mpiot-5e0e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mpiot-5e0e2",
+    "storage_bucket": "mpiot-5e0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669693349891:android:2ee26883d1359c9baf7e36",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669693349891-092f1ft8e83ob6v7vb0v4i60cjb2v8ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfled8Q65sSjbPziF3WlvzS5IyOOC1d4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669693349891-092f1ft8e83ob6v7vb0v4i60cjb2v8ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
